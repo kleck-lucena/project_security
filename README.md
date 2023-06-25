@@ -2,7 +2,7 @@
 
 > Projeto construído no programa Explorer, promovido pela Rocketseat, como desafio extra para firmar os conhecimentos aprendidos no stage 2.
 
-![Project4](https://github.com/kleck-lucena/project4/assets/107014908/705883f4-47d1-4f87-8394-2b2895ae8460)
+![sec3](https://github.com/kleck-lucena/project4-explorer-security/assets/107014908/99efb91f-378c-4087-a753-7bbe32473abf)
 
 </p>
 
